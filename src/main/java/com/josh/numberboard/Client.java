@@ -4,8 +4,6 @@
  */
 package com.josh.numberboard;
 
-import java.util.logging.Logger;
-
 /**
  *
  * @author Usuario
